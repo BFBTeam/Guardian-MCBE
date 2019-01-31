@@ -9,3 +9,5 @@ A Server software for Minecraft:Bedrock Edition | Forked from <a href="https://g
 | [![Discord](https://img.shields.io/badge/Discord-Guardian-%237289da.svg)](https://discord.gg/2qussBx) |
 
 ------------
+
+This Server software is under developing we are looking for developers good at php if you need to join this project join our discord and contact with us.
